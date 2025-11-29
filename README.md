@@ -90,3 +90,6 @@
 - データベース：MySQL
 - デプロイ先：Render
 - 使用予定のライブラリ： ログイン/Omniauth
+
+## 画面遷移図
+Figma：https://www.figma.com/design/92yLwxg20dUE6DImBp3Crn/Trip-let?node-id=0-1&t=rYVy5YOSWBi6xoyl-1
