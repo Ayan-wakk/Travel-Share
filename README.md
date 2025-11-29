@@ -93,3 +93,6 @@
 
 ## 画面遷移図
 Figma：https://www.figma.com/design/92yLwxg20dUE6DImBp3Crn/Trip-let?node-id=0-1&t=rYVy5YOSWBi6xoyl-1
+
+## ER図
+![ER図のスクリーンショット](https://gyazo.com/3a7276748a83d2984b9c94a73ef4f28b)
