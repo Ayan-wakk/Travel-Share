@@ -95,4 +95,4 @@
 Figma：https://www.figma.com/design/92yLwxg20dUE6DImBp3Crn/Trip-let?node-id=0-1&t=rYVy5YOSWBi6xoyl-1
 
 ## ER図
-![ER図のスクリーンショット](https://i.gyazo.com/838f951ad424b6e67f4ad2b030054051.png)
+![ER図のスクリーンショット](https://i.gyazo.com/d725c0dc3acac89018318432df427cee.png)
